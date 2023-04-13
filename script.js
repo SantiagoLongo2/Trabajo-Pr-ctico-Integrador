@@ -1,4 +1,4 @@
-const usernames = ['martinavargas', 'florenciavivas', 'SantiagoLongo2', 'TobiasGonzalezz'];
+const usernames = ['martinavargas', 'florenciavivas', 'SantiagoLongo2'];
 
 $(document).ready(function () {
   $.each(usernames, function (index, username) {
