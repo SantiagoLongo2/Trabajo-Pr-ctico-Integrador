@@ -14,7 +14,7 @@ body{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("te.jpg");
+    ,url("/fotos/te.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* display: flex; */
